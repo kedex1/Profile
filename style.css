@@ -1,0 +1,123 @@
+body {
+    text-align: center;
+    font-family: "merriweather";
+    margin: 0;
+    color: #405144e;
+
+}
+
+h1{color: #4ab19a;
+    font-family: "sacramento";
+    font-size: 5.6255rem;
+    margin: 50px auto 0;
+    color: #66bfbf ;
+}
+h2, h3 {
+    font-family: "montserrat";
+    color: #66bfbf;
+}
+.p2 {width: 45%;
+    margin: 40px auto 60px;
+
+}
+
+.top-container {
+ background-color: #eaf6f6;  
+ padding: 100px 0 50px; 
+}
+
+.top-container > p { color: #4ab19a;}
+.cloud1 {
+    display: inline-block;
+    position: absolute;
+margin-right: 300px;
+}
+.cloud2 {
+    display: inline-block;
+    position: absolute;
+    left: 300px;
+    top: 300px;
+}
+.p2 {
+  width: 50%;  
+  margin: 1  auto;
+}
+hr {
+    border: 6px;
+    border-style:  dotted none none;
+    color: #80b1b1;
+    width: 50px;
+    margin: 50px auto;
+}
+
+.middle-container{ 
+    padding-top: 70px;
+
+}
+
+.bottom-container{
+
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+}
+.kemi {
+    width:25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.kem {
+    float: right;
+    margin-left: 3opx;
+
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .contact:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+  .bottom-container {
+      background-color: #66bfbf;
+      margin: 80px auto 0;
+      padding: 50px 0 20px;
+  }
+
+  .footer-link {
+      color: #11999e;
+      text-decoration:none ;
+      font-family: "montserrat";
+      font-size: 50px;
+      margin: 0 20px;
+  }
+  
+  .co
+    
+.image {
+    padding-top: 50px;
+
+}
